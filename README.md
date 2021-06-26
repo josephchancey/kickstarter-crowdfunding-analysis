@@ -22,8 +22,12 @@ In this analysis I primarily focused on what categories acheieve the most succes
 #### Sub-Categories & Their Total Number of Campaigns Compared
 ![alt text](https://i.imgur.com/vbEi5UQ.png "Sub-Category Bar Chart")
 
+#### Relationship Between Goal Amount and Success Chance
+![alt text](https://i.imgur.com/VxETeC3.png "Goal Outcome Odds")
+
 #### Outcome of Campaigns Over Time (2009-2017)
 ![alt text](https://i.imgur.com/lav9IPJ.png "Sub-Category Bar Chart")
+
 
 Please review report for text explanations on these visual insights. 
 
