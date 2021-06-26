@@ -13,17 +13,6 @@ View the .docx report file to see write-up of my analysis. The questions below a
 
 ---
 
-### Consider Expanding This Analysis With These Questions
-1. What country has the most successful campaigns?~~ 
-2. How many campaigns come from each country?
-3. How quickly do these campaigns get funded?
-4. Does being a 'staff-pick' campaign influence success?
-5. On average, how many backers does it take for these campaigns to be successful?
-6. Is there any variance between country and the amount of backers?
-7. What categories do countries use the most?
-
----
-
 ### Post Analysis Review
 In this analysis I primarily focused on what categories acheieve the most success on kickstarter. Please enjoy the charts below to review some of my insights!
 
@@ -37,5 +26,18 @@ In this analysis I primarily focused on what categories acheieve the most succes
 ![alt text](https://i.imgur.com/lav9IPJ.png "Sub-Category Bar Chart")
 
 Please review report for text explanations on these visual insights. 
+
+---
+
+### Consider Expanding This Analysis With These Questions
+1. What country has the most successful campaigns?~~ 
+2. How many campaigns come from each country?
+3. How quickly do these campaigns get funded?
+4. Does being a 'staff-pick' campaign influence success?
+5. On average, how many backers does it take for these campaigns to be successful?
+6. Is there any variance between country and the amount of backers?
+7. What categories do countries use the most?
+
+---
 
 Thank you!
