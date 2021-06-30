@@ -14,7 +14,7 @@ View the .docx report file to see write-up of my analysis. The questions below a
 ---
 
 ### Post Analysis Review
-In this analysis I primarily focused on what categories acheieve the most success on kickstarter. Please enjoy the charts below to review some of my insights!
+In this analysis I primarily focused on what categories achieve the most success on kickstarter. Please enjoy the charts below to review some of my insights!
 
 #### Parent Categories & Their Total Number of Campaigns Compared
 ![alt text](https://i.imgur.com/kOE0xUz.png "Parent Category Bar Chart")
@@ -34,7 +34,7 @@ Please review report for text explanations on these visual insights.
 ---
 
 ### Consider Expanding This Analysis With These Questions
-1. What country has the most successful campaigns?~~ 
+1. What country has the most successful campaigns?
 2. How many campaigns come from each country?
 3. How quickly do these campaigns get funded?
 4. Does being a 'staff-pick' campaign influence success?
